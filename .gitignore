@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 au-water-edl/
+---cicero2011.pdf
 # C extensions
 *.so
 
