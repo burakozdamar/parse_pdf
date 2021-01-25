@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+au-water-edl/
 # C extensions
 *.so
 
